@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle yousimplified.net",
+        "command": "yousimplified.net:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "yousimplified.net",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "yousimplified.net:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

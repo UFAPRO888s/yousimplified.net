@@ -1,0 +1,19 @@
+{
+  "name": "yousimplified.net",
+  "main": "./lib/yousimplified.net",
+  "version": "0.0.0",
+  "description": "คาสิโนออนไลน์เว็บตรง คนเล่นเยอะที่สุดอันดับ 1 เว็บพนันออนไลน์ ฝาก-ถอนไม่มีขั้นต่ำ คาสิโน พนันออนไลน์ ยูฟ่าเบทเดิมพันคาสิโนออนไลน์ที่ดีที่สุด",
+  "keywords": [
+    "คาสิโนออนไลน์เว็บตรง","เว็บพนันออนไลน์","ฝาก-ถอนไม่มีขั้นต่ำ","คาสิโน","พนันออนไลน์","ยูฟ่าเบท"
+  ],
+  "activationCommands": {
+    "atom-workspace": "yousimplified.net:toggle"
+  },
+  "repository": "https://github.com/UFAPRO888s/yousimplified.net",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
